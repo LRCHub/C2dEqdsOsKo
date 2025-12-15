@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "WALTZ",
+  "base_artist": "kanekoayano",
+  "createdAt": "2025-12-15T17:36:27.944033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tennessee Waltz",
+      "artist": "Eva Cassidy",
+      "has_synced": false,
+      "path": "select/01_Tennessee_Waltz_Eva_Cassidy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tennessee Waltz (Album Version)",
+      "artist": "Eva Cassidy",
+      "has_synced": false,
+      "path": "select/02_Tennessee_Waltz_(Album_Version)_Eva_Cassidy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waltz Across Texas",
+      "artist": "Ernest Tubb",
+      "has_synced": false,
+      "path": "select/03_Waltz_Across_Texas_Ernest_Tubb.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Millionaire Waltz",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_The_Millionaire_Waltz_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do You Know How to Waltz",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/05_Do_You_Know_How_to_Waltz_Low.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take This Waltz",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/06_Take_This_Waltz_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tennessee Waltz - Live Version",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/07_Tennessee_Waltz_-_Live_Version_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ao No Waltz",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_Ao_No_Waltz_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Old Country Waltz",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/09_The_Old_Country_Waltz_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Old Country Waltz",
+      "artist": "Neil Young, Crazy Horse & The Bullets",
+      "has_synced": false,
+      "path": "select/10_The_Old_Country_Waltz_Neil_Young,_Crazy_Horse_&_The_Bullets.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dark Waltz",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/11_Dark_Waltz_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WALTZ",
+      "artist": "kanekoayano",
+      "has_synced": false,
+      "path": "select/pl_01_WALTZ_kanekoayano.txt"
+    }
+  ]
+}
